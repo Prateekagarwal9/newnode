@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "prtkapp", "prtkapp\prtkapp.sfproj", "{15C9FF37-D406-44EB-A897-AE8B635251BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C9FF37-D406-44EB-A897-AE8B635251BB}.Debug|x64.ActiveCfg = Debug|x64
+		{15C9FF37-D406-44EB-A897-AE8B635251BB}.Debug|x64.Build.0 = Debug|x64
+		{15C9FF37-D406-44EB-A897-AE8B635251BB}.Debug|x64.Deploy.0 = Debug|x64
+		{15C9FF37-D406-44EB-A897-AE8B635251BB}.Release|x64.ActiveCfg = Release|x64
+		{15C9FF37-D406-44EB-A897-AE8B635251BB}.Release|x64.Build.0 = Release|x64
+		{15C9FF37-D406-44EB-A897-AE8B635251BB}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4E50C07-E7C2-4083-9C65-FA00FD7BF284}
+	EndGlobalSection
+EndGlobal
